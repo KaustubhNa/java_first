@@ -1,6 +1,14 @@
-class Helloworld{
-	public static void main(String args[]){
-		System.out.println("Hello Java");
-		System.out.println("cool java");
-		}
-	}
+package com.mkyong.samples;
+
+public class JavaSample1 {
+
+    public static void main(String[] args) {
+
+        for (int i = 0; i < 10; i++) {
+            System.out.println("Java ");
+        }
+
+    }
+
+}
+

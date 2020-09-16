@@ -1,6 +1,4 @@
-package com.mkyong.samples;
-
-public class JavaSample1 {
+public class Helloworld {
 
     public static void main(String[] args) {
 
